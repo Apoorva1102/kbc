@@ -24,3 +24,6 @@ if answer=="new delhi":
        else: print("wrong answer")    
    else: print("wrong answer")    
 else: print("wrong answer")    
+
+
+# this game is not for begineers
